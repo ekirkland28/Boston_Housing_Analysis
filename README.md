@@ -71,7 +71,7 @@ To reproduce the analysis:
    ```install.packages(c("tidyverse", "ggplot2", "broom", "psych", "nortest", "car", "caret", "ncvreg", "mgcv", "gam", "splines", "glmnet", "dplyr", "patchwork"))```
 
 To view the report:
-[PDF Report](./Boston_Housing_Data.pdf)
+[PDF Report](./Boston_Housing_Analysis.pdf)
 
 ## Contact
 
