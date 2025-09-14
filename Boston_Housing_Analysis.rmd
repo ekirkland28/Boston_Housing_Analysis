@@ -1,5 +1,5 @@
 ---
-title: 'STAT 3215Q: Final Project'
+title: 'Boston Housing Analysis'
 author: "Eleanor Kirkland"
 date: "05/09/2025"
 output:
