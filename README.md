@@ -70,6 +70,9 @@ To reproduce the analysis:
 4. Make sure required packages are installed using:
    ```install.packages(c("tidyverse", "ggplot2", "broom", "psych", "nortest", "car", "caret", "ncvreg", "mgcv", "gam", "splines", "glmnet", "dplyr", "patchwork"))```
 
+To view the report:
+[PDF Report](./Boston_Housing_Data.pdf)
+
 ## Contact
 
 Created by Eleanor Kirkland. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/eleanor-kirkland-42b859332/).
